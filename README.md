@@ -25,9 +25,9 @@
 
 ## 🙋‍♂️ Developers
 
-- 🎨   Art by A.LEGAYADA 
+- 🎨   Art by [A.LEGAYADA](https://github.com/itsantonle) 
 
-- 💻  code by A.LEGAYADA, C.RONGO (c)2023
+- 💻  code by[ A.LEGAYADA](https://github.com/itsantonle), [C.RONGO](https://github.com/ItisKale) (c) 2023
 
 ![image](https://github.com/user-attachments/assets/9d02db50-425f-4767-acaf-0dbe1715b2ca)
 
