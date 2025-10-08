@@ -1,13 +1,20 @@
+
+
+### 🔥Blaze-runner
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-282C34?style=for-the-badge&logo=pygame&logoColor=white)
 
-### 🔥blaze-runner
+<img width="700"  alt="image" src="https://github.com/user-attachments/assets/29c76582-0cf7-43ba-b42a-3bbc10e41a59" />
+
+
+
+## ✨ Features
+
+
 ![image](https://github.com/user-attachments/assets/dd1d9128-beec-4357-9053-2897236e3d88)
 ![image](https://github.com/user-attachments/assets/923afd45-bb37-4bac-b5fc-f9832a880e79)
 ![image](https://github.com/user-attachments/assets/c6240655-a663-4835-a08f-f39a1db8a923)
 ![image](https://github.com/user-attachments/assets/dc90ad32-5ce9-4bf3-9f04-73e45e7f693d)
-
-## ✨ Features
 
 - 🕹️ **Built with Pygame**  
   Developed using the powerful **Pygame** library—ideal for real-time 2D game development with Python.
